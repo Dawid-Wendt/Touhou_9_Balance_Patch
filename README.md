@@ -1,12 +1,10 @@
-Balance Patch for Touhou Phantasmagoria of Flower View
+# Touhou 9 Balance Patch
 
-Was patched by binhacking via thcrap.
-+ changed code in files responsible for characters.
+This project introduces a balance patch for *Touhou Kaeidzuka ~ Phantasmagoria of Flower View* (TH09), aiming to balance gameplay by adjusting characters power and game mechanics for newer players.
 
-th09.v1.50a has code changes that directly apply to machine code.
+## Features
 
-.ecl files contains changes to characters spells,boss attacks
-.sht files contains changes to shoots, movement characters
-
-Files uses custom language made my author of the game.
-While changes in th09.v1.50a needed knowledge of Assemblery
+- **Binary Patching via thcrap:** Direct modifications to the game's machine code in `th09.v1.50a`, requiring assembly language knowledge.
+- **Custom Scripting Adjustments:** Utilizes the game's proprietary scripting language to modify:
+  - **`.ecl` Files:** Adjustments to character spells and boss attack patterns.
+  - **`.sht` Files:** Modifications to shooting mechanics and character movements.
