@@ -1,6 +1,6 @@
 Balance Patch for Touhou Phantasmagoria of Flower View
 
-Was patched by binhack via thcrap.
+Was patched by binhacking via thcrap.
 + changed code in files responsible for characters.
 
 th09.v1.50a has code changes that directly apply to machine code.
